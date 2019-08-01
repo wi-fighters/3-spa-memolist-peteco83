@@ -6,7 +6,7 @@ User should have the ability to add a listItem and the listOfAllItems should be 
 
 - Start the project with create react app.
 
-- Use different components and import them into the corresponding file. _Examples of components: app, header, listItem, listOfAllItems._
+- Use different components and import them into the corresponding file. _Use the following components: app, header, listItem, listOfAllItems._
 
 - Here is an image for reference:
   ![mock-up-image](mock-up-image.png)
