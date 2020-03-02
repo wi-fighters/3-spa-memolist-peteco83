@@ -1,0 +1,7 @@
+.listdone-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: line-through;
+    list-style: none;
+}
